@@ -36,6 +36,7 @@
 
 ## 📊 GitHub Language Stats
 ![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lovekukwithhan&theme=github)
+![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lovekukwithhan&theme=github)
 
 ---
 
