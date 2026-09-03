@@ -35,7 +35,7 @@
 ---
 
 ## 📊 GitHub Language Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lovekukwithhan&layout=compact&langs_count=8)
+![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lovekukwithhan&theme=github)
 
 ---
 
