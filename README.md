@@ -13,6 +13,7 @@
 
 ### 📌 Framework & Runtime
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 
@@ -44,6 +45,7 @@
 - DS기반 향수 입문자 향수 추천 서비스 향담 기획, 개발
 - 헬스케어 & 라이프로그 서비스 BodyBuddy 기획, 개발
 - 기억 저장 및 공유 서비스, 🌌조각집 개발
+- 대학생 타겟 하이퍼로컬 대여 서비스, BORO 기획
 - 여행 리뷰 기반 플랫폼 유니트립 기획
 - AWS + Prisma 기반 프로젝트 구조 학습
 - Python 기반 데이터 분석 & AI 기초 학습
